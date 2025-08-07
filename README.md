@@ -14,7 +14,7 @@
 - ✅ DMs, Group Chats, Communities, Channels  
 - ✅ Fully working chats  
 
-- ⬜ Calls (work in progress)  
+- ⬜ Calls
 - ⬜ System tray integration  
 - ⬜ Notifications  
 - ⬜ Multi-user support  
@@ -25,24 +25,30 @@ Please consider contributing!
 
 ## Installation
 
-1. Extract the `.tar.gz` archive:  
+1. Clone the repository
+```bash
+git clone https://github.com/naturelessGit/WhatsLinux.git
+cd WhatsLinux
+```
+
+2. Extract the `.tar.gz` archive:  
 ```bash
    tar -xzf whatslinux.tar.gz
 ```
 
-2. Run the dependency installer:
+3. Run the dependency installer:
 ```bash
 chmod +x install-deps.sh
 ./install-deps.sh
 ```
 
-3. Run the app installer
+4. Run the app installer
 ```bash
 chmod +x install.sh
 ./install.sh
 ```
 
-4. Find WhatsLinux in your application launcher and enjoy
+5. Find WhatsLinux in your application launcher and enjoy
 
 ---
 
