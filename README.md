@@ -1,15 +1,11 @@
 # WhatsLinux
 
-![WhatsLinux logo](src/icons/icon-original.png)
-
----
+![WhatsLinux logo](src/icons/icon-256x256.png)
 
 **WhatsLinux** — A minimal, unofficial WhatsApp client for Linux.
 
 > ⚠️ This is ***NOT*** the official WhatsApp client.  
 > Any issues related to WhatsApp itself won’t be addressed here.
-
----
 
 ## Features Added So Far
 
@@ -26,8 +22,6 @@
 
 *Want to see this improve?*  
 Please consider contributing!
-
----
 
 ## Installation
 
