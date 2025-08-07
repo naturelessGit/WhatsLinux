@@ -30,7 +30,7 @@ function createWindow() {
 app.whenReady().then(() => {
   createWindow();
 
-  tray = new Tray(path.join(__dirname, 'icon.png'));
+  tray = new Tray(path.join(__dirname, 'icons/icon-24x24.png'));
   tray.setToolTip('WhatsLinux - Unofficial WhatsApp Client');
 });
 
