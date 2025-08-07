@@ -1,0 +1,13 @@
+{
+  "name": "whatslinux",
+  "version": "1.0.0",
+  "description": "Unofficial WhatsApp desktop client for Linux.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
+

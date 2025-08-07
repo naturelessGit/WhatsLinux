@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=WhatsLinux
+Exec=REPLACEME
+Icon=REPLACEME
+Type=Application
+Categories=Chat;Network;
+Comment=Unofficial WhatsApp client for Linux
+Terminal=false
+StartupNotify=true
